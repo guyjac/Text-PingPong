@@ -1,3 +1,5 @@
+This is a client server application written in C# and Java. Both clients and servers can communicate with each other (E.g. C# Client -> Java server, Java Client -> C# server.
+
 - It is a client-server application. The client(s) initiates the connection to the server.
 - The protocol used for data transmission (JSON) is text based. This allows for cross platform talk
 - The server initiates and maintains a constant stream of data to the user. The user may issue commands to the server at any point during the connection. Clients issuing commands may alter the response from the server to the client
