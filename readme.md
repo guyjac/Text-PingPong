@@ -1,3 +1,4 @@
+# Intro
 This is a client server application written in C# and Java. Both clients and servers can communicate with each other (E.g. C# Client -> Java server, Java Client -> C# server.
 
 - It is a client-server application. The client(s) initiates the connection to the server.
